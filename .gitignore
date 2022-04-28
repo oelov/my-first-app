@@ -1,7 +1,6 @@
 *.pyc
 *~
 __pycache__
-mysql
 myvenv
 /static
 .DS_Store
